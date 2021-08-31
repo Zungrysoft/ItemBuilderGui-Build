@@ -1,0 +1,2 @@
+# Remove index.html since building causes it to be changed back to an older version with no loading screen
+index.html
