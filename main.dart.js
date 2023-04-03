@@ -58218,7 +58218,7 @@ $1:function(a){var s=null
 return K.Pc(L.ce(this.a.a[a-1],s,s,s,s,s,s),a,t.S)},
 $S:64}
 F.BN.prototype={
-R:function(a,b){var s="ItemBuilder Command Generator for v1.1"
+R:function(a,b){var s="[OUTDATED!] ItemBuilder Command Generator for v1.1 [OUTDATED!]"
 return new S.t5(new F.tk(s,null),s,X.ad0(null,C.e3),null)}}
 F.tk.prototype={
 aI:function(){var s=E.aaY()
